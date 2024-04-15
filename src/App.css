@@ -21,13 +21,20 @@
   font-style: normal;
 }
 *{
-  font-family: 'Mana', 'Keyrune'
+  font-family: 'Keyrune';
 }
 body div {
   margin: 0 auto;
 }
-._3EQUg ._QcJzh ._2nK93{
-  background-image: url('/tile-bg-2.jpg');
+._3EQUg,
+._QcJzh,
+_2nK93{
+ background:linear-gradient(0deg,#c9d8c94d,#c9d8d14d),url('/tile-bg-2.jpg');
+ margin-top:10px;
+ margin-left:5px;
+ margin-right:5px;
+ display:flex;
+ border-radius:18px/40px
 }
 div:has(> img[alt="expansion-icon"]){
   flex-direction: row;
@@ -36,10 +43,9 @@ div:has(> img[alt="expansion-icon"]){
   max-width:20%;
 }
 .description{
-  font-family: 'Mana-font';
   font-size:14px;
 }
 .flavour-text{
-  font-family: 'Mana-font';
+  font-family: 'Keyrune';
   font-size:14px;
 }

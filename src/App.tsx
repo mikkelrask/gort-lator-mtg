@@ -1,7 +1,7 @@
-import './App.css'
 import 'reactjs-mtg-card/dist/index.css'
 import 'keyrune/css/keyrune.min.css'
 import { MagicCard } from 'reactjs-mtg-card'
+import './App.css'
 
 function App() {
   return (

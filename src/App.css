@@ -9,6 +9,17 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: 'Mana';
+  src: url('/fonts/mana.eot');
+  src: url('/fonts/mana.eot#iefix') format('embedded-opentype'),
+    url('/fonts/mana.woff') format('woff'),
+    url('/fonts/mana.woff2') format('woff2')
+    url('/fonts/mana.ttf') format('truetype'),
+    url('/fonts/mana.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 *{
   font-family: 'Keyrune'
 }

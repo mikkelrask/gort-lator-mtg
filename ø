@@ -1,0 +1,7 @@
+*{
+  font-family: 'Mana-font';
+}
+div:has(> img[alt="expansion-icon"]){
+  flex-direction: row;
+  flex-wrap: wrap;
+}

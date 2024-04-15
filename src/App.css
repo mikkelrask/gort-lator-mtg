@@ -21,10 +21,13 @@
   font-style: normal;
 }
 *{
-  font-family: 'Keyrune'
+  font-family: 'Mana', 'Keyrune'
 }
 body div {
   margin: 0 auto;
+}
+._3EQUg ._QcJzh ._2nK93{
+  background-image: url('/tile-bg-2.jpg');
 }
 div:has(> img[alt="expansion-icon"]){
   flex-direction: row;

@@ -10,7 +10,7 @@ function App() {
       name='Gort Lator'
       manaCost='{5}{U}{B}'
       descriptions={[
-        'Classic reptilian, necromantic, orb ponderering wizard. Refuses to walk - constantly hovering an inch above ground. Lives in a rickety tower/<i>sort-of-house</i>.', 'Agrees that the act of waking ghouls with magic does sound pretty darn scary but isn\'t gross or disgusting.', 'While under transport gain additional {5} evasion of sheer hate towards others with the excuse:'
+        'Ph.d in alchemy and black magic. Classic reptilian, necromantic, orb ponderering wizard. Refuses to walk - always hovering an inch above ground. Lives in a rickety <i>sort-of-house</i>.', 'Agrees that the act of waking ghouls with magic does sound pretty darn scary but isn\'t gross or disgusting.', 'While under transport gain additional {5} evasion of sheer hate towards others with the excuse:'
       ]}
       type='Legendary Creature - Reptilian Wizard'
       expansionSymbol="https://cloud.tmsgv.xyz/s/87GRCcWK7ekH5J3/download/Citroen-Logo-PNG-Clipart.png"
